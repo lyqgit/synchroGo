@@ -1,0 +1,12 @@
+{
+  "port":"8080",
+  "custom":false,
+  "css":{
+    "file":"./webtest/css/index.css",
+    "url":"/css/"
+  },
+  "js":{
+    "file":"./webtest/js/index.js",
+    "url":"/js/"
+  }
+}
